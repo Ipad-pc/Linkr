@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/Ipad-pc/Linkr
 
 go 1.22.2
 
